@@ -1,6 +1,6 @@
 - Analyze other protocols of the same experiment and write out key points
 - searching after other protocols on github
 - begin to write the protocoll on the same day of the experiment
-- search after python packages that i can use for the data analysing
-- don't trust the partner to 100%
+- at the beginning of the data analysing searching after python packages that can help me
+- don't trust the internship partner to 100%
 - communicating about each point of the experiment and the protocoll

@@ -4,3 +4,6 @@ zu zweiten fandenpendel Messung:
 - Unsicherheit Fadenlänge: 0.07cm, weil sqrt(0.05**2*2)
 - Unsicherheit Auslenkung: 0.07cm
 - Unsicherheit T20: 0.25s 
+Masse.csv
+- Unsicherheit Masse: 1g
+- Unsicherheit Durchmesser: 0.05cm

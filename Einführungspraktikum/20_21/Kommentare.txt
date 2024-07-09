@@ -1,0 +1,2 @@
+Zu ersten fandenpendel Messung:
+- Unsicherheit der Zeitmessung ist Reaktionszeit+Digit

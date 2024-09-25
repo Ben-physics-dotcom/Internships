@@ -1,12 +1,13 @@
 import numpy as np
 
-def chi_square(observed,expected,error):
+def chi_square(observed,expected,error,p=2):
   """
   observed:     That are the values that you observed.
   expected:     These values are the expected values. i.e. you get this through
                 a linear regression
   error:        uncertainties of the observed values or the standard derivation
   """
-
+  n = len(observed)
+  factor = 1/(n-p)
   cs = np.sum((observed-expected)**2/error**2)
-  return cs
+  return factor*cs

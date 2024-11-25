@@ -1,0 +1,13 @@
+Binder directions for the folder Einfuehrungspraktikum.
+
+Go to the website: https://mybinder.org/
+
+Put the link https://github.com/Ben-physics-dotcom/Internships into "GitHub repository name or URL". 
+
+For the NB https://github.com/Ben-physics-dotcom/Internships/blob/main/Einfuehrungspraktikum/Einf%C3%BChrungspraktikum_20_21.ipynb you must add above the first imports the following lines:
+
+!pip install numpy 
+!pip install pandas 
+!pip install matplotlib
+!pip install statsmodels
+

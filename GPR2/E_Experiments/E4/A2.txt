@@ -1,0 +1,2 @@
+Kapazität	Widerstand u_k	u_w
+98.5	149.90	2.955	11.99

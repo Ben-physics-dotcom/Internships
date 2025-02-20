@@ -1,0 +1,9 @@
+Signal	Frequenz(Hz)	U_ss	U_eff
+sinus	1422	22
+sinus	538.5	23
+Dreieck	16596	23
+Rechteck	16597	23
+sinus	1430		7.42
+sinus	540		7.94
+Dreieck	1660		6.465
+Rechteck	1660		11.769

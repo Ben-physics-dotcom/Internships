@@ -1,0 +1,6 @@
+Name	Messwert
+U_G	6.705
+U_S	55.30
+U_Pw	0.2410
+U_K	54.80
+U_SK	6.475

@@ -1,2 +1,30 @@
 # Internships
-In this repo are my data and Python from the internships during my Bachelor of Science at the Humboldt University at Berlin. It's only the data and the analysis of the data.
+
+In this repo are my data and Python Notebooks (NBs) from the internships during my Bachelor of Science at the Humboldt University at Berlin. It has the data and the analysis of the data.
+
+## Some Statistical comments to the Notebooks
+
+The two important statistical parameters in the NBs are the $R^2$ and the $\chi^2$. The only usecase for the $R^2$ are linear regressions. For linear regressions good choice can be `statsmodels.api`, because it gives multiple statistical parameter back. 
+I used the following definition of the $\chi^2$:
+
+$$ \chi^2 = \frac{1}{n-p} \cdot \sum_i^n \frac{(observation_i-expected_i)^2}{\sigma^2_i} $$
+
+The $\sigma^2$ can be the variance or can be the error value of the observation. The error of the observation can be calculated by gaussian error calculation:
+
+$$ \sigma_i = \sqrt{\sum_{i=1}^m ( \partial_{x_i}f(x_1,x_2,...,x_m) \cdot u_{x_i})^2} $$
+
+## GPR 1
+
+GPR stands for Grundpraktikum. Here I had the experiments F4, M2, M3, M5, M10, M12, T1 and T7. M stands for mechanics and T stands for thermodynamics.
+
+## GPR 2
+
+GPR stands for Grundpraktikum. This internship has two parts: the electrodynamics (ED) part and the optics part. Each part has his own folder (E_Experiments, Optics_Experiments). The ED folder has data and the notebooks for the following experiments: E1, E3, E4, E5 and E12. If you find this repo on GitHub, you will in the optics folder only three experiments (Version from the 19.02.2025): O3O4, O6 and O10. The other two NBs from the experiments O8 and O11 get lost, because of an hardware change. The data from both experiments are available. 
+
+## Information about the FPR-1
+
+FPR stands for fortgeschrittenen Praktikum. It is important that you chance all sdt files into asc files, because in VS Code can read asc files, but not sdt files. If you want to change anything about your data, you could copy the data and put it from the asc file into a text file (.txt) or into a csv file.
+
+## User information for running the notebooks
+
+If you want to run my notebooks on a local computer please check before that you have installed MikTex or another TeX distribution on your local computer, because the axis titles need the TeX distribution.

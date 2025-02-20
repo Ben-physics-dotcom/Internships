@@ -1,15 +1,16 @@
 -r requirements-dev.txt
 
-numpy==2.2.2
-matplotlib==3.10.0
-pandas==2.2.3
-scipy==1.15.1
-scikit-learn==1.6.1
-statsmodels==0.14.4
-python==3.12.8
-seaborn==0.13.2
-openpyxl==3.1.5
-uncertainties==3.2.2
-pint==0.24.4
+numpy>=2.2.2
+matplotlib>=3.10.0
+pandas>=2.2.3
+scipy>=1.15.1
+scikit-learn>=1.6.1
+statsmodels>=0.14.4
+python>=3.12.8
+seaborn>=0.13.2
+openpyxl>=3.1.5
+uncertainties>=3.2.2
+pint>=0.24.4
 mpl_toolkits
-PIL==11.1.0
+PIL>=11.1.0
+git>=2.45.2

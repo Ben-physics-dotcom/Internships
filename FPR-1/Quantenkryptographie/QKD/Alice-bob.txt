@@ -1,0 +1,7 @@
+Name Basis Bit Volt
+Alice 0 0 250
+Alice 0 1 540
+Alice 1 0 410
+Alice 1 1 680
+Bob 0 nan 360
+Bob 1 nan 520

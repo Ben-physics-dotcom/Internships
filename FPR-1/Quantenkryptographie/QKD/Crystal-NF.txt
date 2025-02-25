@@ -1,4 +1,4 @@
-Messung Übertragungsrate_P[myW]
+Messung Übertragungsrate P[myW]
 1 2.23
 1 2.15
 1 2.13

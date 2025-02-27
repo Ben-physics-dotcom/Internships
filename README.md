@@ -13,6 +13,10 @@ The $\sigma^2$ can be the variance or can be the error value of the observation.
 
 $$ \sigma_i = \sqrt{\sum_{i=1}^m ( \partial_{x_i}f(x_1,x_2,...,x_m) \cdot u_{x_i})^2} $$
 
+### How the plots are saved in the Notebooks
+
+`plt.savefig('filename.png',dpi=600,transparent=True)`: You should name your plot with a specific name, so if you read the filename you know which plot it is. With the `dpi` you choose the resolution of your saved plot. With transparent equal to `True` you make your plot transparent. That feature is great, if you would make a presentation you can see the background through your plot. 
+
 ## GPR 1
 
 GPR stands for Grundpraktikum. Here I had the experiments F4, M2, M3, M5, M10, M12, T1 and T7. M stands for mechanics and T stands for thermodynamics.

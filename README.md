@@ -23,7 +23,7 @@ GPR stands for Grundpraktikum. Here I had the experiments F4, M2, M3, M5, M10, M
 
 ## GPR 2
 
-GPR stands for Grundpraktikum. This internship has two parts: the electrodynamics (ED) part and the optics part. Each part has his own folder (E_Experiments, Optics_Experiments). The ED folder has data and the notebooks for the following experiments: E1, E3, E4, E5 and E12. If you find this repo on GitHub, you will in the optics folder only three experiments (Version from the 19.02.2025): O3O4, O6 and O10. The other two NBs from the experiments O8 and O11 get lost, because of an hardware change. The data from both experiments are available. 
+GPR stands for Grundpraktikum. This internship has two parts: the electrodynamics (ED) part and the optics part. Each part has his own folder (E_Experiments, Optics_Experiments). The ED folder has data and the notebooks for the following experiments: E1, E3, E4, E5 and E12. The data are available. 
 
 ## Information about the FPR-1
 

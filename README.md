@@ -5,7 +5,7 @@ In this repo are my data and Python Notebooks (NBs) from the internships during 
 ## Some Statistical comments to the Notebooks
 
 The two important statistical parameters in the NBs are the $R^2$ and the $\chi^2$. The only usecase for the $R^2$ are linear regressions. For linear regressions good choice can be `statsmodels.api`, because it gives multiple statistical parameter back. 
-I used the following definition of the $\chi^2$:
+I used the following definition of the $\chi^2$ (Andrae, R., Schulze-Hartung, T., & Melchior, P. (2010). Dos and don'ts of reduced chi-squared. arXiv preprint arXiv:1012.3754.):
 
 $$ \chi^2 = \frac{1}{n-p} \cdot \sum_i^n \frac{(observation_i-expected_i)^2}{\sigma^2_i} $$
 
